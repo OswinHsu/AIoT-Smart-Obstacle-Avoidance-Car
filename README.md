@@ -40,5 +40,8 @@ An Arduino-based smart obstacle avoidance vehicle integrating ultrasonic sensing
 ![HC-SR04 Wiring](hc-sr04_wiring.png)
 
 ### HM-10 Bluetooth Module
+![HM-10 Wiring 1](hm10_wiring_1.png)
+
+![HM-10 Wiring 2](hm10_wiring_2.png)
 
 ### L298N Motor Driver
