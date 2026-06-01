@@ -33,3 +33,12 @@ An Arduino-based smart obstacle avoidance vehicle integrating ultrasonic sensing
 
 - Arduino IDE
 - BLE Joystick Mobile App
+## Wiring Diagram
+
+### HC-SR04 Ultrasonic Sensor
+
+![HC-SR04 Wiring](hc-sr04_wiring.png)
+
+### HM-10 Bluetooth Module
+
+### L298N Motor Driver
