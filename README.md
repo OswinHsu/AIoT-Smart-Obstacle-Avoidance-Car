@@ -52,3 +52,21 @@ An Arduino-based smart obstacle avoidance vehicle integrating ultrasonic sensing
 #### Pin Mapping
 
 ![L298N Pin Mapping](l298n_wiring_2.png)
+
+## System Architecture
+
+```text
+BLE Joystick App
+        │
+        ▼
+HM-10 Bluetooth Module
+        │
+        ▼
+Arduino Uno
+   ┌────┴────┐
+   ▼         ▼
+HC-SR04   L298N Driver
+Sensor        │
+              ▼
+         DC Motors
+```
