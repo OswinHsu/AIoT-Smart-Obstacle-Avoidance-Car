@@ -45,3 +45,10 @@ An Arduino-based smart obstacle avoidance vehicle integrating ultrasonic sensing
 ![HM-10 Wiring 2](hm10_wiring_2.png)
 
 ### L298N Motor Driver
+#### Wiring Overview
+
+![L298N Wiring Overview](l298n_wiring_1.png)
+
+#### Pin Mapping
+
+![L298N Pin Mapping](l298n_wiring_2.png)
